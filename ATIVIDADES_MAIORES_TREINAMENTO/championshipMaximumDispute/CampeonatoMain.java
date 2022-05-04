@@ -6,8 +6,5 @@ public class CampeonatoMain {
         criarTimes.criarTime();
         Treino treinar = new Treino();
         treinar.treinar();
-
-
-
     }
 }
